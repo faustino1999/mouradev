@@ -1,4 +1,4 @@
-###Eu sou Faustino Moura
+### Eu sou Faustino Moura
 
 <p align="center">Eu sou amo tecnologia e adoro resolver dasafios, Estou estudando ReactJs </strong> e usá-lo para criar soluções de alta qualidade. Hoje eu sou <strong>Um porgramador junior</strong> focado em desenvolvimento web.</p>&nbsp;
  
